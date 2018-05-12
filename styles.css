@@ -1,0 +1,37 @@
+body{
+	padding: 10px;
+}
+
+.name{
+    border: 1.5px solid #789;
+    max-width: 300px;
+    padding: 0 20px 10px 20px;
+    box-shadow: 0 8px 10px #999;
+    border-radius: 10px;
+    background-color: #fffafa;
+}
+
+.image{
+	width: 300px;
+	height: 300px;
+	padding-bottom: 10px;
+}
+
+.info {
+	border-width: 1.5px;  
+    border-style: solid;
+    border-color: #789;
+    padding: 0 10px 10px 10px;
+    background-color: #f8f8ff;
+}
+
+.facts{
+	font-style: italic;
+}
+
+.list ul{
+
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
